@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Emre Yeşilkaya</h1>
-<h3 align="center">Student and Jr QA developer from TURKEY</h3>
+<h3 align="center">Student and Jr Automation devoloper from TURKEY</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emreyesilkaya&label=Profile%20views&color=0e75b6&style=flat" alt="emreyesilkaya" /> </p>
 
-- 🌱 I’m currently learning **Express.js and Puppeteer.js**
+- 🌱 I’m currently learning **pyautogui,**selleniumpy, Puppeteer.js**
 
 - 💬 Ask me about **C language and Vanilla Javascript**
 
