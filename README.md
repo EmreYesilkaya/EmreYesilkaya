@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emreyesilkaya&label=Profile%20views&color=0e75b6&style=flat" alt="emreyesilkaya" /> </p>
 
-- 🌱 I’m currently learning **pyautogui,**selleniumpy, Puppeteer.js**
+- 🌱 I’m currently learning **,java,pyautogui,**selleniumpy, Puppeteer.js**
 
 - 💬 Ask me about **C language and Vanilla Javascript**
 
