@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **,java,pyautogui,**selleniumpy, Puppeteer.js**
 
-- 💬 Ask me about **C language and Vanilla Javascript**
+- 💬 Ask me about **C language algorithms and algorit and Automation**
 
 - 📫 How to reach me **emregithub@gmail.com**
 
