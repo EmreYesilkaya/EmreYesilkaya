@@ -3,17 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emreyesilkaya&label=Profile%20views&color=0e75b6&style=flat" alt="emreyesilkaya" /> </p>
 
-- 🔭 I’m currently working on **T-rex Game Automation**
-
-- 🌱 I’m currently learning **Java, Sprign boot, Python**
-
-- 👨‍💻 All of my projects are available at [My git hub page](My git hub page)
-
-- 💬 Ask me about **Javascript, C lang and algorithims**
 
 - 📫 How to reach me **emregithub@gmail.com**
 
-- ⚡ Fun fact **I love hitchhiking and Traveling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
